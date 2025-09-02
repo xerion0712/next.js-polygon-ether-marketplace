@@ -15,7 +15,7 @@ A decentralized marketplace built with **Next.js**, **Hardhat**, and **Polygon/E
 * **Frontend:** Next.js, React, TailwindCSS
 * **Smart Contracts:** Solidity, Hardhat
 * **Blockchain:** Ethereum & Polygon (Matic)
-* **Wallet:** MetaMask / WalletConnect
+* **Wallet:** MetaMask
 
 ##  Project Structure
 
